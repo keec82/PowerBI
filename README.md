@@ -1,10 +1,5 @@
-Hello everyone!
+This small PowerBI project works on Professional Survey data (file attached). While there's plenty of ways to play with the data, 
+I decided to focus on specific points such as salaries by job title, hapinesss index, and data science-related questions. 
 
-Keegan here.
-I've been coding for a year or so now and have dabbled in MATLAB, Python, SQL, Excel and PowerBI applications. 
-All work in my repositories basically reflect my learning pathway, as I'm looking to hone my skills in data analsysi/engineering. 
-
-Feel free to use my work as reference and let's learn together.
-
-
-Keegan
+To begin with, there was a little Data Transofrmation involved such as removing certain unwanted columns and creating columns based on 
+in-built formulas. After that, I used PowerBI Report View to work on the above points. 
